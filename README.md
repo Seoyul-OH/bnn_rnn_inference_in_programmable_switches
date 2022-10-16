@@ -1,6 +1,6 @@
 # Bnn_inference
 
-bnn.p4 was modified for our purposes, originating from the repository which stores the algorithms described in the paper "Line-Speed and Scalable Intrusion Detection at the Network Edge via Federated Learning" which was accepted by IFIP Networking 2020.
+bnn.p4 & main.p4 was modified for our purposes, originating from the repository which stores the algorithms described in the paper "Line-Speed and Scalable Intrusion Detection at the Network Edge via Federated Learning" which was accepted by IFIP Networking 2020. (https://github.com/vxxx03/IFIPNetworking20)
 
 1) Prepare weight_bnn.txt
 
